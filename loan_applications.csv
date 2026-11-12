@@ -1,0 +1,306 @@
+applicant_id,monthly_income_etb,loan_amount_etb,has_collateral,employment_type,application_channel,credit_history_flag,defaulted
+58,6640.0,9300.0,Yes,Farmer,Branch,Good,No
+66,8560.0,9000.0,No,Trader,Mobile App,Good,No
+94,4330.0,15200.0,No,Trader,Mobile App,Good,Yes
+73,3300.0,8980.0,Yes,Salaried,Branch,Good,No
+201,10310.0,16450.0,No,Trader,Branch,Good,No
+293,13360.0,24120.0,Yes,Self-employed,Mobile App,Poor,No
+180,10680.0,14840.0,Yes,Salaried,Mobile App,Good,No
+202,14590.0,32180.0,,Self-employed,Branch,Fair,No
+284,13160.0,31180.0,Yes,Salaried,Branch,Fair,No
+297,4630.0,9430.0,Yes,Farmer,Mobile App,Good,No
+45,6660.0,16330.0,No,Farmer,Mobile App,Good,No
+189,12000.0,28590.0,Yes,Self-employed,Branch,Fair,No
+52,10170.0,33110.0,No,Farmer,Agent,Good,No
+95,12970.0,33460.0,Yes,Salaried,Mobile App,Good,No
+199,8980.0,19170.0,Yes,Trader,Mobile App,Good,No
+152,7230.0,16830.0,Yes,Trader,Agent,Fair,No
+287,8540.0,18230.0,Yes,Farmer,Agent,Good,No
+108,5380.0,10740.0,Yes,Trader,Agent,Good,No
+11,8320.0,14950.0,Yes,Farmer,Branch,Fair,No
+13,10120.0,22210.0,No,Trader,Mobile App,Good,No
+86,5490.0,9550.0,No,Farmer,Agent,Good,Yes
+30,14480.0,24320.0,Yes,Salaried,Agent,Good,No
+148,11560.0,22240.0,Yes,Self-employed,Mobile App,Poor,No
+178,5510.0,13160.0,Yes,Farmer,Mobile App,Good,No
+166,6280.0,14890.0,Yes,Trader,Mobile App,Fair,No
+123,9590.0,21580.0,No,Trader,Agent,Fair,No
+213,5460.0,13240.0,No,Trader,Branch,Fair,No
+160,8110.0,22860.0,Yes,Self-employed,Agent,Good,No
+12,11640.0,34490.0,No,Trader,Branch,Good,No
+68,9360.0,22760.0,Yes,Self-employed,Branch,Good,No
+252,6970.0,18610.0,No,Trader,Agent,Fair,No
+164,8840.0,20340.0,Yes,Self-employed,Mobile App,Good,No
+185,9150.0,18620.0,No,Self-employed,Branch,Good,No
+6,2930.0,4080.0,No,Farmer,Agent,Fair,Yes
+71,,29890.0,No,Self-employed,Mobile App,Good,No
+3,3910.0,6330.0,No,Trader,Branch,Good,No
+172,9620.0,19970.0,Yes,Trader,Agent,Fair,No
+259,8540.0,18270.0,,Trader,Branch,Fair,No
+117,4970.0,9740.0,Yes,Trader,Branch,Good,No
+35,,22890.0,Yes,Salaried,Mobile App,Poor,No
+251,1500,2110.0,Yes,Self-employed,Mobile App,Good,No
+65,7820.0,11740.0,No,Trader,Mobile App,Fair,No
+31,,19210.0,No,Trader,Agent,Good,No
+156,4970.0,8450.0,No,Farmer,Mobile App,Good,Yes
+292,7240.0,20060.0,Yes,Self-employed,Branch,Good,No
+241,6840.0,27170.0,Yes,Trader,Mobile App,Fair,No
+25,,19280.0,Yes,Farmer,Branch,Good,No
+168,8310.0,21540.0,Yes,Salaried,Branch,Good,No
+245,3570.0,7700.0,,Farmer,Mobile App,Fair,Yes
+119,,7050.0,Yes,Trader,Mobile App,Poor,Yes
+135,9390.0,15170.0,No,Farmer,Mobile App,Good,No
+300,5550.0,8420.0,No,Farmer,Branch,Poor,No
+16,5060.0,13270.0,Yes,Farmer,Mobile App,Good,No
+205,6420.0,9350.0,Yes,Self-employed,Mobile App,Fair,Yes
+96,6030.0,17890.0,No,Farmer,Branch,Good,No
+113,13150.0,44020.0,No,Salaried,Mobile App,Good,No
+157,13240.0,36550.0,No,Salaried,Branch,Fair,No
+285,3670.0,7160.0,Yes,Trader,Mobile App,Fair,No
+67,13790.0,33510.0,Yes,Self-employed,Branch,Good,No
+61,2940.0,7000.0,Yes,Salaried,Branch,Good,No
+299,8380.0,6640.0,Yes,Farmer,Branch,Fair,No
+294,9190.0,8000.0,No,Salaried,Mobile App,Fair,No
+53,5870.0,18020.0,No,Salaried,Mobile App,Good,Yes
+212,,24980.0,Yes,Self-employed,Mobile App,Fair,No
+83,9170.0,15580.0,No,Farmer,Mobile App,Good,No
+144,7960.0,16890.0,Yes,Farmer,Mobile App,Good,No
+239,7280.0,12220.0,No,Farmer,Mobile App,Poor,No
+206,7660.0,23970.0,No,Farmer,Agent,Good,No
+277,5280.0,11330.0,No,Farmer,Mobile App,Poor,No
+227,4540.0,13830.0,No,Farmer,Branch,Good,No
+162,5480.0,17570.0,Yes,Farmer,Branch,Poor,Yes
+90,6920.0,21490.0,No,Salaried,Mobile App,Poor,Yes
+15,6200.0,13210.0,No,Farmer,Agent,Fair,No
+260,10890.0,39960.0,No,Trader,Mobile App,Good,No
+296,10050.0,12980.0,Yes,Trader,Mobile App,Fair,No
+290,9160.0,10550.0,No,Self-employed,Branch,Poor,No
+120,7590.0,13210.0,Yes,Farmer,Agent,Good,No
+234,7380.0,19360.0,Yes,Farmer,Agent,Fair,No
+219,5010.0,8030.0,Yes,Trader,Branch,Poor,Yes
+74,8700.0,14060.0,No,Trader,Branch,Fair,No
+138,8490.0,14710.0,No,Trader,Mobile App,Good,No
+184,5250.0,9230.0,No,Farmer,Branch,Fair,No
+128,7240.0,19860.0,No,Farmer,Mobile App,Good,No
+87,8730.0,11190.0,Yes,Trader,Mobile App,Fair,No
+104,7960.0,16850.0,No,Trader,Mobile App,Good,No
+149,14010.0,31480.0,Yes,Self-employed,Mobile App,Good,No
+283,6670.0,10000.0,No,Salaried,Branch,Poor,Yes
+121,9650.0,20800.0,Yes,Trader,Agent,Fair,No
+110,3730.0,8230.0,Yes,Farmer,Mobile App,Good,No
+210,8230.0,7640.0,No,Trader,Agent,Good,No
+131,8410.0,11930.0,No,Farmer,Branch,Poor,No
+230,9950.0,22210.0,No,Salaried,Agent,Fair,No
+250,12350.0,10700.0,No,Self-employed,Mobile App,Poor,Yes
+107,5570.0,13670.0,Yes,Farmer,Mobile App,Good,No
+207,11700.0,18080.0,Yes,Self-employed,Branch,Good,No
+229,8940.0,18070.0,No,Self-employed,Mobile App,Fair,No
+279,11010.0,21020.0,No,Trader,Mobile App,Good,No
+249,12760.0,26890.0,Yes,Self-employed,Branch,Good,No
+57,11870.0,20470.0,No,Trader,Mobile App,Good,Yes
+103,8320.0,16230.0,Yes,Farmer,Mobile App,Good,Yes
+262,11500.0,39140.0,Yes,Trader,Agent,Poor,No
+80,5140.0,10380.0,No,Farmer,Agent,Poor,Yes
+266,16080.0,19210.0,No,Self-employed,Branch,Fair,Yes
+51,7660.0,16080.0,Yes,Farmer,Agent,Fair,No
+1,8650.0,22670.0,No,Salaried,Branch,Fair,No
+122,11970.0,15060.0,,Trader,Mobile App,Poor,Yes
+18,,16560.0,No,Self-employed,Branch,Fair,Yes
+209,11780.0,24230.0,Yes,Self-employed,Branch,Fair,No
+282,8540.0,23510.0,No,Trader,Agent,Good,No
+273,5310.0,11240.0,No,Farmer,Branch,Good,No
+165,11950.0,36250.0,Yes,Salaried,Agent,Good,No
+250,12350.0,10700.0,No,Self-employed,Mobile App,Poor,Yes
+179,8720.0,11440.0,No,Farmer,Branch,Fair,No
+242,12290.0,26260.0,Yes,Trader,Mobile App,Good,No
+173,7940.0,21500.0,Yes,Salaried,Mobile App,Good,No
+32,12650.0,21230.0,No,Farmer,Mobile App,Fair,Yes
+33,9200.0,23480.0,Yes,Farmer,Branch,Good,No
+47,8480.0,7050.0,Yes,Trader,Agent,Good,No
+10,14670.0,19570.0,Yes,Self-employed,Mobile App,Good,No
+101,5660.0,11100.0,No,Self-employed,Mobile App,Poor,Yes
+228,6370.0,10390.0,Yes,Salaried,Branch,Good,No
+39,,13450.0,No,Farmer,Agent,Good,No
+240,8560.0,20920.0,Yes,Farmer,Branch,Good,No
+133,15560.0,26550.0,Yes,Self-employed,Mobile App,Good,No
+56,5070.0,8810.0,No,Farmer,Mobile App,Fair,Yes
+222,9040.0,19740.0,Yes,Self-employed,Mobile App,Good,No
+246,8760.0,18400.0,No,Farmer,Mobile App,Fair,No
+38,19490.0,42500.0,Yes,Salaried,Mobile App,Good,No
+127,8230.0,13930.0,No,Self-employed,Branch,Fair,No
+200,7900.0,21280.0,Yes,Trader,Branch,Good,No
+78,,27490.0,No,Salaried,Mobile App,Fair,No
+253,6560.0,17200.0,Yes,Farmer,Mobile App,Fair,No
+217,5230.0,9780.0,No,Trader,Mobile App,Good,No
+136,5450.0,13360.0,Yes,Farmer,Mobile App,Poor,No
+264,10840.0,29600.0,No,Trader,Agent,Good,No
+44,13970.0,43790.0,Yes,Trader,Mobile App,Fair,Yes
+134,9210.0,29060.0,Yes,Self-employed,Branch,Good,No
+63,10110.0,32990.0,Yes,Salaried,Mobile App,Fair,No
+215,14290.0,40600.0,Yes,Self-employed,Agent,Fair,Yes
+171,7720.0,12320.0,Yes,Trader,Mobile App,Good,No
+106,10150.0,29670.0,Yes,Trader,Agent,Fair,Yes
+75,8990.0,18010.0,Yes,Salaried,Mobile App,Poor,Yes
+4,,21630.0,Yes,Farmer,Branch,Good,No
+220,11750.0,21300.0,No,Salaried,Mobile App,Good,No
+198,9340.0,30810.0,Yes,Self-employed,Branch,Fair,No
+167,3860.0,6930.0,Yes,Farmer,Mobile App,Good,No
+225,8490.0,20500.0,No,Salaried,Branch,Good,Yes
+91,4250.0,7050.0,No,Trader,Branch,Fair,No
+181,11240.0,12810.0,Yes,Salaried,Mobile App,Poor,No
+273,5310.0,11240.0,No,Farmer,Branch,Good,No
+161,13930.0,28190.0,No,Trader,Agent,Fair,Yes
+105,7830.0,13940.0,No,Salaried,Agent,Good,No
+132,6470.0,21170.0,Yes,Farmer,Mobile App,Good,No
+216,6510.0,14010.0,Yes,Farmer,Mobile App,Good,No
+143,4440.0,11860.0,No,Farmer,Branch,Poor,Yes
+115,9880.0,32070.0,No,Self-employed,Agent,Good,No
+188,11040.0,24940.0,Yes,Trader,Mobile App,Poor,No
+187,14000.0,18700.0,No,Self-employed,Mobile App,Fair,No
+23,4940.0,10700.0,Yes,Farmer,Mobile App,Good,No
+34,9550.0,18330.0,Yes,Trader,Mobile App,Poor,Yes
+27,7920.0,10380.0,Yes,Trader,Mobile App,Poor,No
+9,11140.0,31950.0,No,Self-employed,Mobile App,Good,No
+247,8550.0,26260.0,No,Salaried,Mobile App,Poor,Yes
+114,8650.0,25600.0,No,Trader,Agent,Good,No
+79,8240.0,16210.0,No,Trader,Mobile App,Fair,Yes
+2,10370.0,23360.0,No,Salaried,Mobile App,Good,No
+265,8400.0,17650.0,Yes,Trader,Mobile App,Good,No
+28,7060.0,17280.0,Yes,Farmer,Agent,Good,No
+93,8970.0,27460.0,No,Farmer,Mobile App,Good,No
+82,4820.0,6520.0,Yes,Trader,Agent,Fair,No
+224,14020.0,30810.0,No,Salaried,Branch,Good,No
+226,14140.0,38380.0,No,Self-employed,Mobile App,Poor,No
+196,17650.0,22620.0,Yes,Self-employed,Agent,Good,No
+235,6430.0,15110.0,No,Farmer,Mobile App,Poor,Yes
+40,2130.0,3690.0,No,Salaried,Mobile App,Good,No
+69,9330.0,26160.0,No,Trader,Mobile App,Poor,No
+286,10610.0,17800.0,No,Self-employed,Agent,Fair,No
+19,7520.0,19310.0,No,Farmer,Mobile App,Poor,Yes
+64,10480.0,14210.0,No,Salaried,Mobile App,Poor,No
+76,11000.0,22830.0,Yes,Salaried,Mobile App,Good,No
+159,6630.0,12400.0,Yes,Salaried,Agent,Fair,No
+261,9580.0,30430.0,Yes,Salaried,Mobile App,Poor,No
+98,9570.0,24870.0,Yes,Salaried,Agent,Fair,No
+263,8720.0,19580.0,No,Farmer,Agent,Good,No
+150,9660.0,14400.0,No,Salaried,Mobile App,Good,No
+175,12550.0,31580.0,No,Self-employed,Branch,Fair,No
+274,13540.0,22840.0,No,Self-employed,Branch,Fair,No
+111,5660.0,10810.0,No,Farmer,Mobile App,Poor,Yes
+97,2980.0,7810.0,Yes,Trader,Mobile App,Poor,No
+142,7590.0,7320.0,No,Trader,Mobile App,Fair,No
+295,11600.0,18790.0,Yes,Self-employed,Mobile App,Good,No
+59,13200.0,25810.0,Yes,Trader,Mobile App,Fair,No
+126,17850.0,49590.0,Yes,Self-employed,Branch,Fair,No
+278,6430.0,7620.0,No,Farmer,Mobile App,Poor,Yes
+70,10850.0,21940.0,No,Trader,Mobile App,Good,No
+163,9270.0,22190.0,Yes,Self-employed,Mobile App,Fair,No
+8,4080.0,11850.0,No,Farmer,Branch,Fair,Yes
+84,6430.0,12710.0,Yes,Farmer,Agent,Poor,No
+233,7610.0,18890.0,Yes,Trader,Mobile App,Poor,No
+153,7540.0,18040.0,No,Farmer,Mobile App,Fair,No
+158,2380.0,6780.0,Yes,Farmer,Mobile App,Poor,No
+197,8000.0,18410.0,No,Trader,Agent,Poor,No
+155,14040.0,25260.0,Yes,Self-employed,Mobile App,Fair,No
+267,10770.0,28110.0,Yes,Salaried,Branch,Good,No
+232,9720.0,16890.0,Yes,Self-employed,Agent,Good,No
+60,7470.0,15460.0,No,Farmer,Branch,Good,Yes
+112,14930.0,33630.0,No,Self-employed,Branch,Good,Yes
+26,5500.0,12670.0,No,Trader,Branch,Good,No
+14,12050.0,19200.0,Yes,Self-employed,Mobile App,Good,No
+89,5950.0,9890.0,Yes,Farmer,Mobile App,Fair,No
+191,14530.0,34220.0,No,Self-employed,Mobile App,Fair,No
+129,6070.0,14180.0,No,Trader,Mobile App,Poor,Yes
+21,6190.0,14340.0,No,Self-employed,Branch,Good,No
+186,8180.0,16000.0,No,Trader,Branch,Fair,No
+177,5160.0,10080.0,Yes,Farmer,Agent,Good,No
+203,3530.0,7360.0,No,Farmer,Branch,Poor,Yes
+36,5690.0,10430.0,Yes,Salaried,Mobile App,Poor,No
+190,12120.0,19590.0,Yes,Salaried,Mobile App,Fair,No
+271,8440.0,11660.0,,Trader,Branch,Good,No
+289,4510.0,11170.0,No,Farmer,Mobile App,Good,No
+85,5860.0,13000.0,Yes,Trader,Branch,Good,No
+257,9610.0,17100.0,Yes,Trader,Branch,Fair,Yes
+174,10880.0,34540.0,No,Salaried,Mobile App,Good,No
+100,2930.0,7210.0,No,Farmer,Mobile App,Poor,No
+243,10050.0,23030.0,Yes,Trader,Mobile App,Good,No
+214,15680.0,31630.0,No,Trader,Branch,Good,No
+146,13010.0,42730.0,No,Self-employed,Mobile App,Fair,No
+62,8100.0,21090.0,No,Self-employed,Mobile App,Good,No
+248,11120.0,32710.0,No,Salaried,Mobile App,Fair,Yes
+276,2930.0,8410.0,No,Farmer,Mobile App,Fair,Yes
+291,10890.0,29810.0,Yes,Self-employed,Mobile App,Good,No
+254,5100.0,6720.0,Yes,Farmer,Mobile App,Good,No
+102,5060.0,7950.0,Yes,Self-employed,Mobile App,Poor,No
+280,9610.0,24100.0,No,Self-employed,Mobile App,Good,No
+183,6480.0,8460.0,No,Farmer,Mobile App,Good,No
+283,6670.0,10000.0,No,Salaried,Branch,Poor,Yes
+193,7920.0,21990.0,No,Trader,Mobile App,Good,No
+37,14770.0,41850.0,,Self-employed,Branch,Good,No
+151,12880.0,22190.0,No,Salaried,Mobile App,Good,Yes
+54,10940.0,23700.0,No,Self-employed,Branch,Poor,No
+268,4920.0,15300.0,No,Farmer,Agent,Good,No
+81,12400.0,31790.0,Yes,Trader,Mobile App,Good,No
+218,10490.0,30070.0,Yes,Salaried,Branch,Poor,No
+238,13980.0,32810.0,No,Self-employed,Mobile App,Fair,No
+46,9590.0,25320.0,No,Salaried,Agent,Good,No
+298,9210.0,24030.0,Yes,Trader,Branch,Fair,No
+169,7500.0,17500.0,Yes,Salaried,Mobile App,Good,No
+145,9500.0,28810.0,Yes,Trader,Branch,Poor,Yes
+140,7520.0,20920.0,No,Trader,Agent,Good,No
+231,14630.0,35670.0,No,Trader,Mobile App,Good,No
+72,20470.0,28320.0,No,Self-employed,Agent,Good,No
+255,3650.0,6810.0,Yes,Farmer,Branch,Poor,Yes
+176,8020.0,13770.0,No,Self-employed,Agent,Fair,No
+20,12540.0,26550.0,Yes,Self-employed,Agent,Good,No
+237,8270.0,19200.0,No,Trader,Mobile App,Poor,No
+24,17030.0,38190.0,Yes,Self-employed,Mobile App,Good,Yes
+139,4260.0,5190.0,No,Self-employed,Mobile App,Good,No
+288,6960.0,17470.0,No,Self-employed,Mobile App,Poor,No
+109,8560.0,18610.0,Yes,Trader,Agent,Poor,Yes
+118,11690.0,37780.0,No,Self-employed,Mobile App,Good,No
+22,11190.0,14350.0,Yes,Self-employed,Agent,Fair,No
+49,11430.0,21960.0,No,Self-employed,Branch,Poor,Yes
+170,6400.0,13220.0,No,Farmer,Branch,Good,No
+223,5820.0,11080.0,Yes,Salaried,Mobile App,Poor,No
+256,9570.0,29890.0,Yes,Self-employed,Branch,Good,No
+43,9590.0,12980.0,No,Salaried,Branch,Good,No
+88,7060.0,17320.0,Yes,Salaried,Branch,Fair,No
+5,,9280.0,No,Farmer,Mobile App,Good,No
+29,11350.0,21550.0,No,Trader,Branch,Poor,Yes
+244,9260.0,18210.0,No,Self-employed,Branch,Poor,Yes
+194,15170.0,36730.0,No,Self-employed,Agent,Good,No
+195,9210.0,15870.0,Yes,Salaried,Branch,Poor,No
+281,11410.0,6150.0,No,Self-employed,Agent,Good,No
+48,17210.0,40480.0,No,Self-employed,Agent,Good,No
+17,6190.0,9210.0,No,Farmer,Agent,Good,No
+42,5970.0,20960.0,No,Farmer,Mobile App,Good,No
+154,5240.0,10640.0,No,Farmer,Mobile App,Fair,No
+116,7740.0,22920.0,Yes,Salaried,Branch,Poor,Yes
+125,9750.0,16780.0,Yes,Salaried,Branch,Good,No
+236,16630.0,30140.0,Yes,Self-employed,Agent,Good,No
+208,7830.0,21630.0,Yes,Salaried,Branch,Fair,Yes
+192,9030.0,33900.0,No,Trader,Branch,Fair,Yes
+41,10430.0,27160.0,Yes,Salaried,Mobile App,Good,No
+204,6320.0,16300.0,Yes,Trader,Branch,Fair,Yes
+137,9450.0,15690.0,Yes,Trader,Agent,Fair,No
+182,5870.0,14360.0,Yes,Salaried,Branch,Good,No
+130,1500,2020.0,No,Trader,Mobile App,Good,No
+270,2790.0,3090.0,Yes,Farmer,Mobile App,Good,No
+99,4960.0,13390.0,Yes,Salaried,Branch,Good,No
+124,12640.0,34040.0,Yes,Salaried,Mobile App,Poor,No
+77,9980.0,31050.0,Yes,Salaried,Mobile App,Fair,No
+269,,16370.0,No,Salaried,Mobile App,Fair,No
+50,11080.0,12210.0,No,Trader,Branch,Good,No
+55,16150.0,41620.0,Yes,Self-employed,Mobile App,Good,No
+92,6150.0,14090.0,Yes,Farmer,Branch,Good,No
+221,5330.0,7810.0,Yes,Farmer,Mobile App,Good,No
+258,8710.0,13530.0,Yes,Self-employed,Branch,Fair,No
+4,,21630.0,Yes,Farmer,Branch,Good,No
+147,15960.0,51570.0,No,Self-employed,Branch,Good,Yes
+275,5080.0,12230.0,Yes,Trader,Agent,Good,No
+141,8850.0,26030.0,Yes,Trader,Branch,Good,No
+272,8800.0,12920.0,No,Self-employed,Mobile App,Fair,No
+9,11140.0,31950.0,No,Self-employed,Mobile App,Good,No
+7,18540.0,38760.0,Yes,Self-employed,Mobile App,Poor,No
+211,9190.0,16070.0,Yes,Trader,Mobile App,Good,No
