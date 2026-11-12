@@ -42,7 +42,7 @@ The dataset includes:
 ## Project Structure
 
 ```text
-Big-Data-Lab-1/
+Lab-1/
 │
 ├── README.md
 ├── loan_applications.csv
@@ -51,7 +51,7 @@ Big-Data-Lab-1/
 
 ## How to View
 
-Open `Big_Data_Lab_1.ipynb` using Jupyter Notebook, JupyterLab, Google Colab, or Visual Studio Code with the Jupyter extension.
+Open `lab1.ipynb` using Jupyter Notebook, JupyterLab, Google Colab, or Visual Studio Code with the Jupyter extension.
 
 The notebook contains the code, written answers, and saved outputs.
 
